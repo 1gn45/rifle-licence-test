@@ -1,0 +1,155 @@
+:root {
+  color-scheme: light;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+  --primary: #1f4f8b;
+  --primary-dark: #173b68;
+  --success: #2e7d32;
+  --danger: #c62828;
+  --muted: #667085;
+  --border: #d0d5dd;
+  --bg: #f8fafc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: #1d2939;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 32px 20px 48px;
+}
+
+header {
+  margin-bottom: 24px;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 32px;
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--muted);
+}
+
+.status {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+}
+
+#question-number {
+  margin: 0 0 8px;
+  font-size: 20px;
+  color: var(--primary);
+}
+
+#question-text {
+  margin: 0 0 20px;
+  font-size: 18px;
+}
+
+.options {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.option {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: #fff;
+  transition: border 0.2s ease, background 0.2s ease;
+}
+
+.option input {
+  margin-top: 4px;
+}
+
+.option.correct {
+  border-color: rgba(46, 125, 50, 0.6);
+  background: rgba(46, 125, 50, 0.08);
+}
+
+.option.incorrect {
+  border-color: rgba(198, 40, 40, 0.6);
+  background: rgba(198, 40, 40, 0.08);
+}
+
+.feedback {
+  min-height: 48px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.feedback.success {
+  color: var(--success);
+}
+
+.feedback.error {
+  color: var(--danger);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 18px;
+  font-size: 16px;
+  cursor: pointer;
+  background: var(--primary);
+  color: #fff;
+  transition: background 0.2s ease;
+}
+
+button:hover:not(:disabled) {
+  background: var(--primary-dark);
+}
+
+button.secondary {
+  background: #e2e8f0;
+  color: #1d2939;
+}
+
+button.secondary:hover:not(:disabled) {
+  background: #cbd5f5;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.summary {
+  font-size: 18px;
+  font-weight: 600;
+}
