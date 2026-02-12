@@ -665,11 +665,11 @@
       },
       {
         "letter": "b",
-        "text": "ne anksčiau, kaip prieš 45 dienas ir ne vėliu kaip iki leidimo laikyti (nešiotis) ginklus galiojimo pabaigos;"
+        "text": "ne anksčiau, kaip prieš 45 dienas ir ne vėliau kaip iki leidimo laikyti (nešiotis) ginklus galiojimo pabaigos;"
       },
       {
         "letter": "c",
-        "text": "ne anksčiau, kaip prieš 30 dienų ir ne vėliu kaip iki leidimo laikyti (nešiotis) ginklus galiojimo pabaigos."
+        "text": "ne anksčiau, kaip prieš 30 dienų ir ne vėliau kaip iki leidimo laikyti (nešiotis) ginklus galiojimo pabaigos."
       }
     ],
     "answer": "a"
@@ -1380,7 +1380,7 @@
       },
       {
         "letter": "d",
-        "text": "įrengta apsauginė įsilaužimo signalizacija, sudarytais pirmo, antro ir trečio apsaugos ruožo;"
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta iš pirmo, antro ir trečio apsaugos ruožo;"
       },
       {
         "letter": "e",
@@ -1407,7 +1407,7 @@
       },
       {
         "letter": "d",
-        "text": "įrengta apsauginė įsilaužimo signalizacija, sudarytais pirmo, antro ir trečio apsaugos ruožo;"
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta iš pirmo, antro ir trečio apsaugos ruožo;"
       },
       {
         "letter": "e",
@@ -2466,7 +2466,7 @@
       },
       {
         "letter": "b",
-        "text": "administracinė;."
+        "text": "administracinė;"
       },
       {
         "letter": "c",

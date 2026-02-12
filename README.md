@@ -1,6 +1,6 @@
 # rifle-licence-test
 
-Šiame repo pateikiamas savigynos testo klausimynas GitHub Pages aplinkai.
+Šiame repo pateikiamas savigynos testo klausimynas GitHub Pages aplinkoje.
 
 ## Naudojimas
 
