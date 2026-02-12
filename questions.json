@@ -1,0 +1,2704 @@
+[
+  {
+    "number": 1,
+    "text": "Dujų įrenginys tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nešaunamasis ginklas, iš kurio paleidžiamos kenksmingosios, dirginančiosios ar kitos dujinės veikliosios medžiagos;"
+      },
+      {
+        "letter": "b",
+        "text": "šaunamasis ginklas, sukonstruotas ar pritaikytas šaudyti tik kenksmingosiomis, dirginamosiomis ar kitomis dujinėmis veikliosiomis medžiagomis, jų užtaisais ar imitaciniais šaudmenimis."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 2,
+    "text": "Dujinis ginklas tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "šaunamasis ginklas, sukonstruotas ar pritaikytas šaudyti tik kenksmingosiomis, dirginamosiomis ar kitomis dujinėmis veikliosiomis medžiagomis, jų užtaisais ar imitaciniais šaudmenimis;"
+      },
+      {
+        "letter": "b",
+        "text": "nešaunamasis ginklas, iš kurio paleidžiamos kenksmingosios, dirginančiosios ar kitos dujinės veikliosios medžiagos."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 3,
+    "text": "Ginklo naudotojas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "fizinis asmuo, kuris turi teisę nešiotis ar laikyti tam tikros kategorijos ginklą ir kuriam ginklo savininkas suteikia teisę naudotis jo ginklu;"
+      },
+      {
+        "letter": "b",
+        "text": "fizinis asmuo, kuris turi teisę nešiotis ar laikyti tam tikros kategorijos ginklą ir kuriam ginklo savininkas nesuteikia teisės naudotis jo ginklu."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 4,
+    "text": "Pneumatinis ginklas tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nešaunamasis ginklas, iš kurio paleidžiamos kulkos ar kitokio sviedinio kryptingas judėjimas atsiranda dėl suspausto oro ar kitų dujų jėgos;"
+      },
+      {
+        "letter": "b",
+        "text": "šaunamasis ginklas, iš kurio paleidžiamos kulkos ar kitokio sviedinio kryptingas judėjimas atsiranda dėl suspausto oro ar kitų dujų jėgos."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 5,
+    "text": "Senovinis ginklas tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "šaunamasis ginklas, kurio modelis sukurtas iki 1870 m ir kuris pagamintas iki 1899;"
+      },
+      {
+        "letter": "b",
+        "text": "šaunamasis ginklas, kurio modelis sukurtas iki 1780 m ir kuris pagamintas iki 1898;"
+      },
+      {
+        "letter": "c",
+        "text": "nešaunamasis ginklas, kurio modelis sukurtas iki 1870 m ir kuris pagamintas iki 1899."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 6,
+    "text": "Signalinis ginklas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "šaunamasis ginklas, skirtas garso, šviesos signalui sukurti, signalinių pirotechnikos įtaisu ar signaliniais šaudmenimis;"
+      },
+      {
+        "letter": "b",
+        "text": "nešaunamasis ginklas, skirtas garso, šviesos signalui sukurti, signaliniu pirotechnikos įtaisu ar signaliniais šaudmenimis."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 7,
+    "text": "Kompensatorius tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "prie šaunamojo ginklo vamzdžio laibgalio tvirtinamas arba į šaunamojo ginklo konstrukciją integruotas įtaisas, kurio pagrindinė paskirtis mažinti ginklo atatranką;"
+      },
+      {
+        "letter": "b",
+        "text": "prie šaunamojo ginklo vamzdžio laibgalio tvirtinamas arba į šaunamojo ginklo konstrukciją integruotas įtaisas, kurio pagrindinė paskirtis — slopinti šūvio garsą, panaudojant jame esančią specialią (specialias) išsiplėtimo kamerą (kameras) ir (ar)  pertvarėlę (pertvarėles), membraną (membranas) ar kitus panašius konstrukcijos elementus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 8,
+    "text": "Graižtviniai šaunamieji ginklai, kurių kalibras yra 12,7 mm arba didesnis, išskyrus medžioklinius, senovinius ginklus ir senovinių ginklų kopijas, priskiriami",
+    "options": [
+      {
+        "letter": "a",
+        "text": "„A“kategorijai;"
+      },
+      {
+        "letter": "b",
+        "text": "„B“ kategorijai;"
+      },
+      {
+        "letter": "c",
+        "text": "„C“ kategorijai;"
+      },
+      {
+        "letter": "d",
+        "text": "„D“ kategorijai."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 9,
+    "text": "Kas turi teisę įsigyti ir turėti „C“ kategorijos dujinius pistoletus (revolverius)?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne jaunesni kaip 21 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "b",
+        "text": "ne jaunesni kaip 23 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "c",
+        "text": "ne jaunesni kaip 18 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 10,
+    "text": "Kas turi teisę įsigyti ir turėti „C“ kategorijos pneumatinius ginklus, kurių sviedinio kinetinė energija viršija 7,5 J?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne jaunesni kaip 21 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "b",
+        "text": "ne jaunesni kaip 23 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "c",
+        "text": "ne jaunesni kaip 18 m. nuolatiniai LR gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 11,
+    "text": "Kas turi teisę įsigyti ir turėti „C“ kategorijos senovinių ginklų kopijas?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne jaunesni kaip 21 m. LR nuolatiniai gyventojai , gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "b",
+        "text": "ne jaunesni kaip 23 m. LR nuolatiniai gyventojai , gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "c",
+        "text": "ne jaunesni kaip 18 m. LR nuolatiniai gyventojai , gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 12,
+    "text": "Kas turi teisę įsigyti ir turėti „C“ kategorijos šaunamuosius ginklus, kurių sviedinio kinetinė energija yra nuo 2,5 J iki 7,5 J?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne jaunesni kaip 21 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "b",
+        "text": "ne jaunesni kaip 23 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "c",
+        "text": "ne jaunesni kaip 18 m. LR nuolatiniai gyventojai, gavę neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 13,
+    "text": "Kas turi teisę įsigyti ir turėti „B“ kategorijų ilguosius lygiavamzdžius šaunamuosius ginklus savigynai?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne jaunesni kaip 21 m. LR nuolatiniai gyventojai, išlaikę egzaminą ir gavę leidimą;"
+      },
+      {
+        "letter": "b",
+        "text": "ne jaunesni kaip 18 m. LR nuolatiniai gyventojai, išlaikę egzaminą ir gavę leidimą;"
+      },
+      {
+        "letter": "c",
+        "text": "ne jaunesni kaip 23 m. LR nuolatiniai gyventojai, išlaikę egzaminą ir gavę leidimą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 14,
+    "text": "Kas turi teisę įsigyti ir turėti „B“ kategorijų trumpuosius šaunamuosius ginklus savigynai?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne jaunesni kaip 23 m. LR nuolatiniai gyventojai išlaikę egzaminą ir gavę leidimą;"
+      },
+      {
+        "letter": "b",
+        "text": "ne jaunesni kaip 18 m. LR nuolatiniai gyventojai išlaikę egzaminą ir gavę leidimą;"
+      },
+      {
+        "letter": "c",
+        "text": "ne jaunesni kaip 21 m. LR nuolatiniai gyventojai išlaikę egzaminą ir gavę leidimą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 15,
+    "text": "Ar leidimas laikyti (nešiotis) ginklus suteikia teisę įsigyti leidime nurodytų ginklų?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 16,
+    "text": "Prekybininkas ginklais, pardavęs asmeniui „B“, „C“ kategorijos ginklą, išduoda jam ginklo pažymėjimą per:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "iškart;"
+      },
+      {
+        "letter": "b",
+        "text": "per 10 dienų;"
+      },
+      {
+        "letter": "c",
+        "text": "per 5 dienas."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 17,
+    "text": "Leidimas laikyti (nešiotis) ginklus galioja:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "5 metus;"
+      },
+      {
+        "letter": "b",
+        "text": "3 metus;"
+      },
+      {
+        "letter": "c",
+        "text": "neterminuotas."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 18,
+    "text": "Leidimas laikyti (nešiotis) ginklus kartu su ginklu pažymėjimu suteikia teisę įsigyti šaudmenų:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 19,
+    "text": "Pasibaigus leidimo nešiotis ar leidimo laikyti ginklą galiojimo terminui, ginklo savininkas privalo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nedelsdamas ginklą pristatyti laikinai saugoti į teritorinę policijos įstaigą;"
+      },
+      {
+        "letter": "b",
+        "text": "per 10 kalendorinių dienų pristatyti laikinai saugoti į teritorinę policijos įstaigą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 20,
+    "text": "Ar gali ginklo savininkas, būdamas neblaivus (0,41 promilės ir daugiau), patikėti gabenti ginklą jį lydinčiam asmeniui?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip, jeigu jį lydintis asmuo yra blaivus ir turi teisę naudotis tokios kategorijos ginklu;"
+      },
+      {
+        "letter": "b",
+        "text": "taip, bet kuris lydintis asmuo, neapsvaigęs nuo alkoholio, narkotinių ar kitų psichiką veikiančių medžiagų gali gabenti ginklą;"
+      },
+      {
+        "letter": "c",
+        "text": "negali."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 21,
+    "text": "Ginklui taisyti reikalingas leidimas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne;"
+      },
+      {
+        "letter": "b",
+        "text": "taip."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 22,
+    "text": "Ar gali būti uždrausta nešiotis ginklus viešosiose vietose, jeigu tai gali kelti grėsmę žmogaus ir visuomenės saugumui?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 23,
+    "text": "Duslintuvas tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "prie šaunamojo ginklo vamzdžio laibgalio tvirtinamas arba į šaunamojo ginklo konstrukciją integruotas įtaisas, kurio pagrindinė paskirtis — slopinti šūvio garsą, panaudojant jame esančią specialią (specialias) išsiplėtimo kamerą (kameras) ir (ar) pertvarėlę (pertvarėles), membraną (membranas) ar kitus panašius konstrukcijos elementu;"
+      },
+      {
+        "letter": "b",
+        "text": "prie šaunamojo ginklo vamzdžio laibgalio tvirtinamas arba į šaunamojo ginklo konstrukciją integruotas įtaisas, kurio pagrindinė paskirtis mažinti ginklo atatranką;"
+      },
+      {
+        "letter": "c",
+        "text": "nešaunamasis ginklas, skirtas tiesiogiai ar per atstumą taikiniui paveikti elektros srove."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 24,
+    "text": "Nepriekaištingos reputacijos asmeniu nelaikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kuris per pastaruosius metus, ne mažiau kaip 2 kartus padarė teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;"
+      },
+      {
+        "letter": "b",
+        "text": "kuris per pastaruosius 3 metus, ne mažiau kaip 2 kartus padarė teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;"
+      },
+      {
+        "letter": "c",
+        "text": "kuris per pastaruosius 5 metus, ne mažiau kaip 2 kartus padarė teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 25,
+    "text": "Būtinosios ginties ribų peržengimas, tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "būtinosios ginties ribų peržengimas yra tuo atveju, kai tiesiogine tyčia nužudoma arba sunkiai sutrikdoma sveikata, jeigu gynyba aiškiai neatitiko kėsinimosi pobūdžio ir pavojingumo. Būtinosios ginties ribų peržengimu nelaikoma dėl didelio sumišimo ar išgąsčio , kurį sukėlė pavojingas kėsinimasis, arba ginantis nuo įsibrovimo į būstą, padaryta veika;"
+      },
+      {
+        "letter": "b",
+        "text": "būtinosios ginties ribų peržengimas yra tuo atveju, kai netyčia nužudoma arba sunkiai sutrikdoma sveikata, jeigu gynyba aiškiai neatitiko kėsinimosi pobūdžio ir pavojingumo. Būtinosios ginties ribų peržengimu nelaikoma dėl didelio sumišimo ar išgąsčio, kurį sukėlė pavojingas kėsinimasis, arba ginantis nuo įsibrovimo į būstą, padaryta veika."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 26,
+    "text": "Asmuo, pageidaujantis įsigyti trumpąjį šaunamąjį ginklą (pistoletą, revolverį) savigynos tikslams, teritorinei policijos įstaigai tiesiogiai arba per PEPS pateikia:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "prašymą leisti įsigyti ginklą, kitoje pusėje prašymo turi nurodyti kartu su pareiškėjų gyvenančius asmenis, vyresnius kaip 14 metų, prašyme turi būti pažymėtas asmens sutikimas dėl asmens duomenų iš sveikatos priežiūros institucijų dėl asmens ligų ar fizinių trūkumų, kurie galėtų trukdyti tinkamai elgtis su ginklų, teikimo policijai, asmens tapatybę patvirtinantį dokumentą;"
+      },
+      {
+        "letter": "b",
+        "text": "prašymą leisti įsigyti ginklą, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą;"
+      },
+      {
+        "letter": "c",
+        "text": "prašymą leisti įsigyti ginklą, kitoje pusėje prašymo turi nurodyti kartu su pareiškėjų gyvenančius asmenis, vyresnius kaip 14 metų, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 27,
+    "text": "Asmuo, pageidaujantis įsigyti dujinį pistoletą (revolverį) savigynos tikslams teritorinei policijos įstaigai tiesiogiai arba per PEPS pateikia:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "prašymą, kuriame turi būti pažymėtas asmens sutikimas dėl asmens duomenų iš sveikatos priežiūros institucijų dėl asmens ligų ar fizinių trūkumų, kurie galėtų trukdyti tinkamai elgtis su ginklu, teikimo policijai, asmens tapatybę patvirtinantį dokumentą;"
+      },
+      {
+        "letter": "b",
+        "text": "prašymą, kitoje pusėje prašymo turi nurodyti kartu su pareiškėju gyvenančius asmenis, vyresnius kaip 14 metų, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą;"
+      },
+      {
+        "letter": "c",
+        "text": "prašymą, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 28,
+    "text": "Senovinio ginklo kopija, tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "šaunamasis ginklas, pagamintas 1899 m. ir vėlesniais metais pagal iki 1870m. sukurtą ginklo modelį;"
+      },
+      {
+        "letter": "b",
+        "text": "šaunamasis ginklas, pagamintas 1898 m. ir vėlesniais metais pagal iki 1780m. sukurtą ginklo modelį;"
+      },
+      {
+        "letter": "c",
+        "text": "nešaunamasis ginklas, pagamintas1899 m. ir vėlesniais metais pagal iki 1870m. sukurtą ginklo modelį."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 29,
+    "text": "Medžioklėje gali būti naudojami teisėtai turimi „A“ ir „B“ kategorijų trumpieji šaunamieji ginklai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 30,
+    "text": "Pagal LR administracinių nusižengimų kodeksą, administracinė nuobauda galioja:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "12 mėnesių;"
+      },
+      {
+        "letter": "b",
+        "text": "6 mėnesius;"
+      },
+      {
+        "letter": "c",
+        "text": "5 metus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 31,
+    "text": "Civilinėje apyvartoje draudžiami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "bet kokie savadarbiai šaunamieji ginklai;"
+      },
+      {
+        "letter": "b",
+        "text": "begarsiai šoviniai;"
+      },
+      {
+        "letter": "c",
+        "text": "lazeriniai taikikliai, išskyrus sportui, medžioklei ir šaulio tarnybai naudojamus lazerinius taikiklius;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi A ir B atsakymai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 32,
+    "text": "Dujų įrenginiai įsigyjami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nuo 18 metų su asmens dokumentu;"
+      },
+      {
+        "letter": "b",
+        "text": "nuo 21 metų su neterminuotu leidimu įsigyti ir laikyti (nešiotis) ginklus ir asmens dokumentu;"
+      },
+      {
+        "letter": "c",
+        "text": "nuo 23 metų su neterminuotu leidimu įsigyti ir laikyti (nešiotis) ginklus ir asmens dokumentu."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 33,
+    "text": "Lazerinius taikiklius gali įsigyti, turėti ir naudoti asmenys, turintys šaunamąjį ginklą:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "medžioklei, sportui ir Lietuvos šaulių sąjungos nariai ar kariai savanoriai, ar kiti aktyviojo rezervo kariai;"
+      },
+      {
+        "letter": "b",
+        "text": "savigynai;"
+      },
+      {
+        "letter": "c",
+        "text": "profesinei veiklai vykdyti;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi visi atsakymo variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "civilinėje apyvartoje lazeriniai taikikliai draudžiami."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 34,
+    "text": "Ginklo savininkas, praradęs leidimą laikyti (nešiotis) ginklus arba neterminuotą leidimą laikyti (nešiotis) ginklus, privalo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "pateikia motyvuotą prašymą dėl dublikato išdavimo;"
+      },
+      {
+        "letter": "b",
+        "text": "nedelsdamas pranešti policijos įstaigai dėl leidimo laikyti ( nešiotis) ginklus praradimo ir bendra tvarka kreiptis dėl naujo leidimo laikyti (nešiotis) išdavimo;"
+      },
+      {
+        "letter": "c",
+        "text": "pateikia prašymą dėl dublikato išdavimo, motyvuotą paaiškinimą, skelbimo LR laikraštyje apie netekusį galios leidimą kopiją."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 35,
+    "text": "Ginklo savininkas savo „B“ kategorijos trumpuosius ar ilguosius šaunamuosius ginklus gali pateikti perdirbti turėdamas leidimą:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "perdirbti ginklą;"
+      },
+      {
+        "letter": "b",
+        "text": "nešiotis ginklus;"
+      },
+      {
+        "letter": "c",
+        "text": "laikyti ginklus;"
+      },
+      {
+        "letter": "d",
+        "text": "leidimas nereikalingas."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 36,
+    "text": "Elektros šoko įtaisas tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nešaunamasis ginklas, sukonstruotas ar pritaikytas tiesiogiai prisilietus ar per atstumą paveikti taikinį elektros srove;"
+      },
+      {
+        "letter": "b",
+        "text": "šaunamasis ginklas, sukonstruotas ar pritaikytas tiesiogiai prisilietus ar per atstumą paveikti taikinį elektros srove;"
+      },
+      {
+        "letter": "c",
+        "text": "nešaunamasis ginklas, iš kurio gali būti paleistos kenksmingos dirginančios medžiagos ar jų užtaisas."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 37,
+    "text": "Kada asmuo privalo perregistruoti leidimą laikyti ( nešiotis) ginklus?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne vėliau, kaip iki leidimo laikyti (nešiotis) ginklus galiojimo pabaigos;"
+      },
+      {
+        "letter": "b",
+        "text": "ne anksčiau, kaip prieš 45 dienas ir ne vėliau kaip iki leidimo laikyti (nešiotis) ginklus galiojimo pabaigos;"
+      },
+      {
+        "letter": "c",
+        "text": "ne anksčiau, kaip prieš 30 dienų ir ne vėliau kaip iki leidimo laikyti (nešiotis) ginklus galiojimo pabaigos."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 38,
+    "text": "Pagal klasifikaciją, templiniai ginklai, kurių visa įtempimo jėga yra nuo 500N iki 1200N, priklauso:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "„B“ kategorijos ginklams;"
+      },
+      {
+        "letter": "b",
+        "text": "„A“ kategorijos ginklams;"
+      },
+      {
+        "letter": "c",
+        "text": "„C“ kategorijos ginklams;"
+      },
+      {
+        "letter": "d",
+        "text": "„D“ kategorijos ginklams."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 39,
+    "text": "Pareiškėjas, norintis gauti leidimą laikyti (nešiotis) ginklą savigynos tikslams, ne vėliau, kaip per 5 mėnesius nuo pranešimo gavimo, teritorinei policijos įstaigai turi pateikti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "egzamino išlaikymo pažymėjimą ir deklaraciją, patvirtinančią, kad yra tinkamos sąlygos ginklui laikyti;"
+      },
+      {
+        "letter": "b",
+        "text": "medžiotojo bilietą ir jo kopiją;"
+      },
+      {
+        "letter": "c",
+        "text": "dokumentus, patvirtinančius asmens priklausymą šaudymo sporto organizacijai;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 40,
+    "text": "Savigynai „B“ kategorijos ilguosius graižtvinius ginklus gali įsigyti ir turėti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ilgieji graižtviniai ginklai savigynai yra draudžiami;"
+      },
+      {
+        "letter": "b",
+        "text": "ne jaunesni, kaip 18 metų LR nuolatiniai gyventojai, turintys galiojantį medžiotojo bilietą;"
+      },
+      {
+        "letter": "c",
+        "text": "ne jaunesni, kaip 21 metų LR nuolatiniai gyventojai, turintys galiojantį medžiotojo bilietą;"
+      },
+      {
+        "letter": "d",
+        "text": "ne jaunesni, kaip 21 metų LR nuolatiniai gyventojai, išlaikę egzaminą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 41,
+    "text": "„B“ ir „C“ kategorijos ginklų negali įsigyti ir turėti fizinis asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kuris per metus pakartotinai padarė administracinį nusižengimą, kuriuo buvo šiurkščiai pažeisti medžioklę reglamentuojantys teisės aktai;"
+      },
+      {
+        "letter": "b",
+        "text": "kuris per pastaruosius metus ne mažiau kaip 2 kartus baustas už šiurkščius teisės aktų, reglamentuojančių medžioklę reikalavimų pažeidimus;"
+      },
+      {
+        "letter": "c",
+        "text": "kuris per pastaruosius 3 metus baustas už šiurkščius teisės aktų, reglamentuojančių medžioklę reikalavimų pažeidimus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 42,
+    "text": "Neterminuotas leidimas laikyti (nešiotis) ginklus, tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "dokumentas, kuris patvirtina, kad fizinis asmuo turi teisę įsigyti, laikyti ( nešiotis) ginklus;"
+      },
+      {
+        "letter": "b",
+        "text": "dokumentas, kuris patvirtina, kad fizinis asmuo turi teisę laikyti ( nešiotis) ginklus."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 43,
+    "text": "Ar šaunamųjų ginklų optinius lazerinius taikiklius gali įsigyti, turėti ir naudoti asmenys, turintys šaunamąjį ginklą savigynai?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ne;"
+      },
+      {
+        "letter": "b",
+        "text": "taip."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 44,
+    "text": "Fizinis asmuo, turintis, „C“ kategorijos nedidelės galios šaunamuosius ginklus privalo gyvenamoje patalpoje sudaryti tinkamas sąlygas ginklams ir jų šaudmenims laikyti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "turi būti saugomi taip, kad jais negalėtų pasinaudoti pašaliniai asmenys;"
+      },
+      {
+        "letter": "b",
+        "text": "metalinėje vidine spyna užrakinamoje dėžėje (seife), pritvirtintoje prie sienos ar grindų, seifo sienelės ne plonesnės, kaip 2mm;"
+      },
+      {
+        "letter": "c",
+        "text": "metalinėje vidine spyna užrakinamoje dėžėje (seife), pritvirtintoje prie sienos ar grindų, seifo sienelės ne plonesnės, kaip 3mm."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 45,
+    "text": "Jei asmuo yra paveldėjęs ginklus ir pageidauja juos įregistruoti savo vardu į teritorinę policijos įstaigą dėl ginklų įregistravimo turi kreiptis ne vėliau kaip per:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "20 darbo dienų nuo paveldėjimo teisės liudijimo gavimo dienos;"
+      },
+      {
+        "letter": "b",
+        "text": "30 darbo dienų nuo paveldėjimo teisės liudijimo gavimo dienos;"
+      },
+      {
+        "letter": "c",
+        "text": "1 mėnesį nuo paveldėjimo teisės liudijimo gavimo dienos."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 46,
+    "text": "Būtinasis reikalingumas, tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "veika, kurią asmuo padarė siekdamas pašalinti jam pačiam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams gresiantį pavojų, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra mažesnė už tą, kurios siekta išvengti;"
+      },
+      {
+        "letter": "b",
+        "text": "veika, kurią asmuo padarė siekdamas pašalinti jam pačiam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams gresiantį pavojų, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra didesnė už tą, kurios siekta išvengti;"
+      },
+      {
+        "letter": "c",
+        "text": "veika, kurią asmuo padarė siekdamas pašalinti jam pačiam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams gresiantį pavojų, jeigu šis pavojus galėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra mažesnė už tą, kurios siekta išvengti."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 47,
+    "text": "Civilinėje apyvartoje draudžiami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "bet kokie savadarbiai šaunamieji ginklai;"
+      },
+      {
+        "letter": "b",
+        "text": "pneumatiniai ginklai, kurių sviedinio kinetinė energija viršija 7,5J;"
+      },
+      {
+        "letter": "c",
+        "text": "teisingi a ir b atsakymo variantai;"
+      },
+      {
+        "letter": "d",
+        "text": "senoviniai ginklai."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 48,
+    "text": "Kiek galioja leidimas nešiotis dujinį pistoletą (revolverį)?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "3 metus;"
+      },
+      {
+        "letter": "b",
+        "text": "5 metus;"
+      },
+      {
+        "letter": "c",
+        "text": "neterminuotas;"
+      },
+      {
+        "letter": "d",
+        "text": "dujiniams pistoletams leidimas nereikalingas."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 49,
+    "text": "LR administracinių nusižengimų kodekse yra numatyta administracinė atsakomybė:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "už teisėtai įgyto ginklo, šaudmenų, kuriems įsigyti, laikyti ar nešioti reikalingas leidimas, saugojimo, laikymo, nešiojimo ar gabenimo taisyklių pažeidimus;"
+      },
+      {
+        "letter": "b",
+        "text": "už teisėtai įgyto ginklo, šaudmenų, kuriems įsigyti, laikyti ar nešioti nereikalingas leidimas, saugojimo, laikymo, nešiojimo ar gabenimo taisyklių pažeidimus;"
+      },
+      {
+        "letter": "c",
+        "text": "teisingi a ir b atsakymo variantai."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 50,
+    "text": "LR administracinių nusižengimų kodekse nėra numatyta administracinė atsakomybė:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "už teisėtai įgyto ginklo, šaudmenų, kuriems įsigyti, laikyti ar nešioti reikalingas leidimas, saugojimo, laikymo, nešiojimo ar gabenimo taisyklių pažeidimus;"
+      },
+      {
+        "letter": "b",
+        "text": "už įgyto ginklo, šaudmenų, kuriems įsigyti, laikyti ar nešioti nereikalingas leidimas, saugojimo, laikymo, nešiojimo ar gabenimo taisyklių pažeidimus;"
+      },
+      {
+        "letter": "c",
+        "text": "už ginklo praradimą."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 51,
+    "text": "Leidimas laikyti (nešiotis) ginklus panaikinamas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kai asmuo naudojasi ginklu pažeisdamas įstatymų, kitų teisės aktų reikalavimus, ir tas pažeidimas kelia grėsmę žmonių gyvybei, sveikatai, visuomenės saugumui ar viešajai tvarkai;"
+      },
+      {
+        "letter": "b",
+        "text": "asmeniui dėl ginklų ir šaudmenų apyvartos taisyklų pažeidimo praradus savo ginklą;"
+      },
+      {
+        "letter": "c",
+        "text": "kai asmuo, turintis leidimą, laiku, be svarbių priežasčių, neperregistruoja leidimo laikyti (nešiotis) ginklus ir dėl to gavęs teritorinės policijos įstaigos įspėjimą į jį nereaguoja;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi visi atsakymo variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi a ir c atsakymo variantai."
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "number": 52,
+    "text": "Pareiškėjas, norintis gauti neterminuotą leidimą laikyti (nešiotis) ginklus, teritorinei policijos įstaigai tiesiogiai arba per PEPS turi pateikti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "egzamino išlaikymo pažymėjimą ir jo kopiją;"
+      },
+      {
+        "letter": "b",
+        "text": "deklaraciją, patvirtinančią, kad yra tinkamos sąlygos ginklui laikyti;"
+      },
+      {
+        "letter": "c",
+        "text": "teisingi a ir b atsakymo variantai;"
+      },
+      {
+        "letter": "d",
+        "text": "pažyma dėl egzamino išlaikymo ir deklaracija, patvirtinti, kad yra tinkamos sąlygos laikyti ginklus, yra nereikalingos."
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "number": 53,
+    "text": "Matomoje vietoje dėkle trumpuosius šaunamuosius ginklus gali nešiotis:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "uniformuotas valstybės institucijos pareigūnas;"
+      },
+      {
+        "letter": "b",
+        "text": "uniformuotas šaulys, karys savanoris ar kitas aktyviojo rezervo karys;"
+      },
+      {
+        "letter": "c",
+        "text": "asmuo, turintis ginklą profesinei veiklai vykdyti;"
+      },
+      {
+        "letter": "d",
+        "text": "asmuo, turintis ginklą savigynai, kai tiesiogiai susiklosto aplinkybės, dėl kurių iškyla grėsmė sveikatai ar gyvybei;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi a ir b atsakymai;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi a, b ir c atsakymai;"
+      },
+      {
+        "letter": "g",
+        "text": "teisingi visi atsakymai."
+      }
+    ],
+    "answer": "f"
+  },
+  {
+    "number": 54,
+    "text": "Sviedinys - šaudmens dalis, skirta taikiniui paveikti — tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kulka;"
+      },
+      {
+        "letter": "b",
+        "text": "šratai;"
+      },
+      {
+        "letter": "c",
+        "text": "artilerijos sviedinys;"
+      },
+      {
+        "letter": "d",
+        "text": "strėlė;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymo variantai;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi a ir b atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 55,
+    "text": "Policija ar kitos įstatymų įgaliotos valstybės institucijos ginklus, šaudmenis, jų dalis gali paimti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "panaikinus leidimo nešiotis, leidimo laikyti ginklus, šaudmenis galiojimą;"
+      },
+      {
+        "letter": "b",
+        "text": "panaikinus neterminuotą leidimą įsigyti ir laikyti (nešiotis) ginklus;"
+      },
+      {
+        "letter": "c",
+        "text": "kai asmuo naudojasi ginklu, pažeisdamas įstatymų, kitų teisės aktų reikalavimus, ir tas pažeidimas kelia grėsmę žmonių gyvybei, sveikatai, visuomenės saugumui ar viešajai tvarkai;"
+      },
+      {
+        "letter": "d",
+        "text": "asmeniui raštiškai atsisakius ginklo;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 56,
+    "text": "Fizinis asmuo, turintis daugiau, kaip 6 vnt „B“ kategorijos trumpųjų šaunamųjų ginklų, privalo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įsirengti apsauginę įsilaužimo signalizaciją;"
+      },
+      {
+        "letter": "b",
+        "text": "įsirengti apsauginę įsilaužimo signalizaciją, sudarytą bent iš vieno apsaugos ruožo;"
+      },
+      {
+        "letter": "c",
+        "text": "įsirengti apsauginę įsilaužimo signalizaciją, sudarytą ne mažiau kaip iš dviejų apsaugos ruožų;"
+      },
+      {
+        "letter": "d",
+        "text": "įsirengti apsauginę įsilaužimo signalizaciją, sudarytą ne mažiau kaip iš trijų apsaugos ruožų;"
+      },
+      {
+        "letter": "e",
+        "text": "įsirengti apsaugos sistemą."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 57,
+    "text": "Leidimai nešiotis ir leidimai laikyti „B“ kategorijų ginklus ir šaudmenis panaikinami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kai policija turi duomenų, kad asmuo kelia grėsmę kitų asmenų ar savo gyvybei ar sveikatai, nuosavybei, viešajai tvarkai ar visuomenės saugumui;"
+      },
+      {
+        "letter": "b",
+        "text": "mirus leidimą turėjusiam asmeniui;"
+      },
+      {
+        "letter": "c",
+        "text": "ginklą turinčio asmens prašymu;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi b ir c variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 58,
+    "text": "Nepriekaištingos reputacijos asmeniu nelaikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kuris, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, per metus pakartotinai padarė teisės pažeidimą;"
+      },
+      {
+        "letter": "b",
+        "text": "kuriam leidimas nešiotis, leidimas laikyti ginklą buvo panaikintas ar nepratęstas šio straipsnio pagrindais, taip pat už kitus ginklų apyvartos pažeidimus, ir nuo to laiko nėra praėję 3 metai;"
+      },
+      {
+        "letter": "c",
+        "text": "kuris per pastaruosius 5 metus ne mažiau kaip 2 kartus padarė administracinius teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;"
+      },
+      {
+        "letter": "d",
+        "text": "kuriam leidimas nešiotis, leidimas laikyti ginklą buvo panaikintas ar nepratęstas šio straipsnio pagrindais, taip pat už kitus ginklų apyvartos pažeidimus, ir nuo to laiko nėra praėję 5 metai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi a ir b atsakymo variantai;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 59,
+    "text": "Nepriekaištingos reputacijos asmeniu nelaikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "turintis teistumą;"
+      },
+      {
+        "letter": "b",
+        "text": "per pastaruosius metus įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs baudžiamąjį nusižengimą;"
+      },
+      {
+        "letter": "c",
+        "text": "įstatymų nustatyta tvarka įtariamas arba kaltinamas padaręs nusikalstamą veiką;"
+      },
+      {
+        "letter": "d",
+        "text": "per pastaruosius 3 metus teistas už baudžiamąjį nusižengimą;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi a, b ir c atsakymo variantai;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 60,
+    "text": "Nepriekaištingos reputacijos asmeniu nelaikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Lietuvos Respublikos baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo;"
+      },
+      {
+        "letter": "b",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;"
+      },
+      {
+        "letter": "c",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kuris padarytas naudojant sprogmenis, sprogstamąsias medžiagas arba šaunamuosius ginklus;"
+      },
+      {
+        "letter": "d",
+        "text": "visi atsakymo variantai neteisingi;"
+      },
+      {
+        "letter": "e",
+        "text": "visi atsakymo variantai teisingi."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 61,
+    "text": "Nepriekaištingos reputacijos asmeniu laikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Lietuvos Respublikos baudžiamajame kodekse numatyta didžiausia bausmė viršija 6 metus laisvės atėmimo;"
+      },
+      {
+        "letter": "b",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;"
+      },
+      {
+        "letter": "c",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė naudodamas sprogmenis, sprogstamąsias medžiagas arba šaunamuosius ginklus, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;"
+      },
+      {
+        "letter": "d",
+        "text": "visi atsakymo variantai teisingi;"
+      },
+      {
+        "letter": "e",
+        "text": "visi atsakymo variantai neteisingi."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 62,
+    "text": "Nepriekaištingos reputacijos asmeniu nelaikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įstatymų nustatyta tvarka įtariamas arba kaltinamas padaręs nusikalstamą veiką;"
+      },
+      {
+        "letter": "b",
+        "text": "kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;"
+      },
+      {
+        "letter": "c",
+        "text": "per metus pakartotinai padarė administracinį nusižengimą, kuriuo buvo šiurkščiai pažeisti medžioklę reglamentuojantys teisės aktai;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi b ir c atsakymo variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymo variantai;"
+      },
+      {
+        "letter": "f",
+        "text": "visi atsakymo variantai neteisingi."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 63,
+    "text": "Nepriekaištingos reputacijos asmeniu laikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įstatymų nustatyta tvarka įtariamas arba kaltinamas padaręs nusikalstamą veiką;"
+      },
+      {
+        "letter": "b",
+        "text": "kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;"
+      },
+      {
+        "letter": "c",
+        "text": "per metus pakartotinai padarė administracinį nusižengimą, kuriuo buvo šiurkščiai pažeisti medžioklę reglamentuojantys teisės aktai;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi visi atsakymo variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "visi atsakymo variantai neteisingi."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 64,
+    "text": "Nepriekaištingos reputacijos asmeniu nelaikomas asmuo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Lietuvos Respublikos baudžiamajame kodekse numatyta didžiausia bausmė viršija 5 metus laisvės atėmimo;"
+      },
+      {
+        "letter": "b",
+        "text": "per pastaruosius 3 metus ne mažiau kaip 3 kartus baustas už šiurkštų teisės aktų, reglamentuojančių medžioklę, reikalavimų pažeidimą;"
+      },
+      {
+        "letter": "c",
+        "text": "kuris per pastaruosius 3 metus ne mažiau kaip 3 kartus padarė administracinius teisės pažeidimus, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;"
+      },
+      {
+        "letter": "d",
+        "text": "neturintis teistumo;"
+      },
+      {
+        "letter": "e",
+        "text": "įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, susijusį su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi b ir c atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 65,
+    "text": "Reikalavimai įsirengti apsauginę įsilaužimo signalizaciją, sudarytą bent iš vieno apsaugos ruožo, privalomi ginklų savininkui, turinčiam:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "daugiau kaip 5 vnt. „B“ kategorijos ginklų;"
+      },
+      {
+        "letter": "b",
+        "text": "daugiau kaip 5 vnt. „C“ kategorijos ginklų;"
+      },
+      {
+        "letter": "c",
+        "text": "daugiau kaip 10 vnt. „B“ ir ,,C“ kategorijos ginklų;"
+      },
+      {
+        "letter": "d",
+        "text": "daugiau kaip 10 vnt. „B“ kategorijos ginklų;"
+      },
+      {
+        "letter": "e",
+        "text": "daugiau kaip 12 vnt. „B“ kategorijos ginklų."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 66,
+    "text": "Fizinis asmuo, turintis ne daugiau kaip 5 ginklus, atitinkančius „B“ kategoriją, ir jų šaudmenis, turi juos laikyti gyvenamoje vietoje, kurioje:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įrengta apsaugos sistema;"
+      },
+      {
+        "letter": "b",
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta bent iš vieno apsaugos ruožo;"
+      },
+      {
+        "letter": "c",
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta iš pirmo ir iš antro apsaugos ruožo;"
+      },
+      {
+        "letter": "d",
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta iš pirmo, antro ir trečio apsaugos ruožo;"
+      },
+      {
+        "letter": "e",
+        "text": "apsaugos sistemos įrengti nebūtina."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 67,
+    "text": "Fizinis asmuo, pagal neterminuotą leidimą įsigijęs daugiau kaip 12vnt „C“ kategorijos ginklų privalo juos laikyti gyvenamoje vietoje, kurioje:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įrengta apsaugos sistema;"
+      },
+      {
+        "letter": "b",
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta bent iš vieno apsaugos ruožo;"
+      },
+      {
+        "letter": "c",
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta iš pirmo ir iš antro apsaugos ruožo;"
+      },
+      {
+        "letter": "d",
+        "text": "įrengta apsauginė įsilaužimo signalizacija, sudaryta iš pirmo, antro ir trečio apsaugos ruožo;"
+      },
+      {
+        "letter": "e",
+        "text": "jie turi būti laikomi taip, kad jais negalėtų pasinaudoti pašaliniai asmenys."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 68,
+    "text": "Ginklo savininkui, naudotojui draudžiama:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nešiotis parengtą šaudyti ginklą, išskyrus atvejus, kai tiesiogiai susiklosto aplinkybės, dėl kurių iškyla grėsmė asmens sveikatai ar gyvybei;"
+      },
+      {
+        "letter": "b",
+        "text": "nešiotis ginklą neturint su savimi leidimo jį nešiotis;"
+      },
+      {
+        "letter": "c",
+        "text": "ginklą nešiotis, gabenti apsvaigusiam nuo alkoholio (0,41 Promilės ir daugiau), narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi a ir b variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 69,
+    "text": "Leidimas laikyti ir leidimas nešiotis „B“, „C“ kategorijų ginklus neišduodamas fiziniam asmeniui:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kuriam dėl baudos už administracinį nusižengimą priimtas sprendimas dėl priverstinio išieškojimo;"
+      },
+      {
+        "letter": "b",
+        "text": "apie kurį policija turi duomenų, kad jis kelia grėsmę kitų asmenų ar savo gyvybei ar sveikatai, nuosavybei, viešajai tvarkai ar visuomenės saugumui;"
+      },
+      {
+        "letter": "c",
+        "text": "visi atsakymai teisingi;"
+      },
+      {
+        "letter": "d",
+        "text": "visi atsakymai neteisingi."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 70,
+    "text": "Kada ginklo savininkui, išimties tvarka, leidžiama nešiotis užtaisytą ginklą?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "negalima nešiotis užtaisyto ginklo;"
+      },
+      {
+        "letter": "b",
+        "text": "tamsiu paros metu;"
+      },
+      {
+        "letter": "c",
+        "text": "kai tiesiogiai susiklosto aplinkybės, dėl kurių iškyla grėsmė asmens sveikatai ar gyvybei."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 71,
+    "text": "Radęs ginklą ar šaudmenis, asmuo privalo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "pranešti policijai ir nugabenti juos į policijos įstaigą;"
+      },
+      {
+        "letter": "b",
+        "text": "nugabenti juos į policijos įstaigą;"
+      },
+      {
+        "letter": "c",
+        "text": "pranešti policijos įstaigai."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 72,
+    "text": "Būtinoji gintis — tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "asmuo neatsako pagal LR BK, jeigu jis, neperžengdamas būtinosios ginties ribų, padarė baudžiamajame įstatyme numatyto nusikaltimo ar nusižengimo požymius formaliai atitinkančią veiką, gindamasis ar gindamas kitą asmenį, nuosavybę, būsto neliečiamybę, kitas teisės, visuomenės ar valstybės interesus nuo pradėto ar tiesiogiai gresiančio pavojingo kėsinimosi;"
+      },
+      {
+        "letter": "b",
+        "text": "asmuo neatsako pagal LR BK, jeigu jis, neperžengdamas būtinosios ginties ribų, padarė baudžiamajame įstatyme numatyto nusikaltimo ar nusižengimo požymius formaliai atitinkančią veiką, gindamasis ar gindamas kitą asmenį, nuosavybę, būsto neliečiamybę, kitas teisės, visuomenės ar valstybės interesus nuo pabaigto pavojingo kėsinimosi;"
+      },
+      {
+        "letter": "c",
+        "text": "asmuo neatsako pagal LR BK, jeigu jis, neperžengdamas būtinosios ginties ribų, padarė baudžiamajame įstatyme numatyto nusikaltimo ar nusižengimo požymius formaliai atitinkančią veiką, gindamasis ar gindamas kitą asmenį, nuosavybę, būsto neliečiamybę, kitas teisės, visuomenės ar valstybės interesus nuo numatomo pavojingo kėsinimosi."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 73,
+    "text": "Fizinis asmuo, jam priklausantį „B“ kategorijos ginklą gali perleisti nuolat naudoti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "tik kartu gyvenančiam šeimos nariui, turinčiam teisę laikyti ar nešiotis tos kategorijos ginklą, laikyti ir nešiotis ginklą jis galės tik nustatyta tvarka gavęs leidimą;"
+      },
+      {
+        "letter": "b",
+        "text": "tik šeimos nariui, turinčiam teisę laikyti ar nešiotis tos kategorijos ginklą, laikyti ir nešiotis ginklą jis galės tik nustatyta tvarka gavęs leidimą;"
+      },
+      {
+        "letter": "c",
+        "text": "tik kartu gyvenančiam asmeniui, turinčiam teisę laikyti ar nešiotis tos kategorijos ginklą, laikyti ir nešiotis ginklą jis galės tik nustatyta tvarka gavęs leidimą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 74,
+    "text": "Draudžiama panaudoti ginklą:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, jeigu akivaizdu, kad jos nėščios, taip pat prieš asmenis, jeigu akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas arba išvaizda atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba kai užpuola ir šis užpuolimas kelia grėsmę žmogaus gyvybei ar sveikatai;"
+      },
+      {
+        "letter": "b",
+        "text": "žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, prieš nepilnamečius, jeigu jų amžius žinomas arba išvaizda atitinką amžių, išskyrus atvejus, kai jie priešinasi pavojingu žmogaus gyvybei būdu arba jei užpuola tokių asmenų grupė, ir šis užpuolimas kelią grėsmę gyvybei;"
+      },
+      {
+        "letter": "c",
+        "text": "žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat prieš asmenis, jei akivaizdu, kad jie neįgalūs, ir prieš nepilnamečius."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 75,
+    "text": "Baudžiamoji atsakomybė už nerūpestingą šaunamojo ginklo laikymą bus, jei:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "asmuo pažeidė teisėtai turimo šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų medžiagų laikymo taisykles ir dėl to sudarė sąlygas kitam asmeniui neteisėtai jais pasinaudoti. Tai taikoma tik tais atvejais, kai numatytos veikos padarytos dėl neatsargumo;"
+      },
+      {
+        "letter": "b",
+        "text": "asmuo pažeidė teisėtai turimo šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų medžiagų laikymo taisykles ir dėl to sudarė sąlygas kitam asmeniui teisėtai jais pasinaudoti. Tai taikoma tik tais atvejais, kai numatytos veikos padarytos dėl neatsargumo."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 76,
+    "text": "Ką privalo atlikti asmuo, panaudojęs šaunamąjį ginklą (eiliškumas):",
+    "options": [
+      {
+        "letter": "a",
+        "text": "suteikti pirmąją medicinos pagalbą, pranešti artimiausiam policijos komisariatui ar prokuratūrai, stengtis išsaugoti nepaliesta įvykio vietą, užrašyti liudininkų (jei tokie yra) duomenis;"
+      },
+      {
+        "letter": "b",
+        "text": "pranešti artimiausiam policijos komisariatui ar prokuratūrai, suteikti pirmąją medicinos pagalbą, užrašyti liudininkų (jei tokie yra) duomenis;"
+      },
+      {
+        "letter": "c",
+        "text": "užrašyti liudininkų (jei tokie yra) duomenis, pranešti artimiausiam policijos komisariatui ar prokuratūrai, suteikti pirmąją medicinos pagalbą."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 77,
+    "text": "Fizinis asmuo, jam priklausančius „B“ kategorijos ilguosius lygiavamzdžius ginklus gali:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "gabenti į kitą vietą, šaudyklą neužtaisytus, įdėtus į dėklą, o dėtuvė turi būti išimta;"
+      },
+      {
+        "letter": "b",
+        "text": "nešiotis teisėtai įsigytus ginklus arba gabenti į kitą vietą, šaudyklą neužtaisytus, įdėtus į dėklą, o dėtuvė turi būti išimta;"
+      },
+      {
+        "letter": "c",
+        "text": "gabenti į kitą vietą, šaudyklą neužtaisytus, įdėtus į dėklą, o dėtuvė gali būti neišimta."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 78,
+    "text": "Civilinėje apyvartoje nedraudžiami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "sportui ir medžioklei naudojami lazeriniai taikikliai;"
+      },
+      {
+        "letter": "b",
+        "text": "dujiniai ginklai su nuodingosiomis medžiagomis;"
+      },
+      {
+        "letter": "c",
+        "text": "elektros šoko įtaisai su iššaunamosiomis adatomis;"
+      },
+      {
+        "letter": "d",
+        "text": "visi atsakymai teisingi;"
+      },
+      {
+        "letter": "e",
+        "text": "visi atsakymai neteisingi."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 79,
+    "text": "Senovinis ginklas, pagal ginklų klasifikaciją, priskiriamas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "„D“ kategorijai;"
+      },
+      {
+        "letter": "b",
+        "text": "„C“ kategorijai;"
+      },
+      {
+        "letter": "c",
+        "text": "„B“ kategorijai;"
+      },
+      {
+        "letter": "d",
+        "text": "„A“ kategorijai."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 80,
+    "text": "Nuo ko pradėdamas pistoleto ardymas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ginklas nuimamas nuo saugiklio;"
+      },
+      {
+        "letter": "b",
+        "text": "išimama dėtuvė;"
+      },
+      {
+        "letter": "c",
+        "text": "pertraukiama spyna ir patikrinama ar nėra vamzdyje likęs šovinys."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 81,
+    "text": "Leidimas laikyti (nešiotis) ginklus neišduodamas asmeniui, kuriam:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "leidimas laikyti (nešiotis) ginklus buvo panaikintas ir nuo panaikinimo nėra praėję 2 metai;"
+      },
+      {
+        "letter": "b",
+        "text": "leidimas laikyti (nešiotis) ginklus buvo panaikintas ir nuo panaikinimo nėra praėję 3 metai;"
+      },
+      {
+        "letter": "c",
+        "text": "leidimas laikyti (nešiotis) ginklus buvo panaikintas ir nuo panaikinimo nėra praėję 5 metai."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 82,
+    "text": "Šautinių žaizdų tipai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "traiškytinė, mišri, liestinė, durtinė;"
+      },
+      {
+        "letter": "b",
+        "text": "kiaurynė, liestinė, kiauryminė, kontuzinė;"
+      },
+      {
+        "letter": "c",
+        "text": "kiauryminė, muštinė, sprogdintinė, mišri;"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 83,
+    "text": "Išorinio arterinio kraujavimo stabdymo principai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "žaizdos tamponavimas, maksimalus galūnių pakėlimas, spaudžiamasis tvarstis, timpos uždėjimas;"
+      },
+      {
+        "letter": "b",
+        "text": "timpos uždėjimas, spaudžiamasis tvarstis, maksimalus galūnių pakėlimas, žaizdos tamponavimas;"
+      },
+      {
+        "letter": "c",
+        "text": "maksimalus galūnių pakėlimas, žaizdos tamponavimas, spaudžiamasis tvarstis, timpos uždėjimas."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 84,
+    "text": "Dirbtinio kvėpavimo ir išorinio širdies masažo atlikimo eiliškumas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "burnos revizija, atlošiama galva, ligonis guldomas ant nugaros ir kieto pagrindo, oro įpūtimas, krūtinės ląstos paspaudimas;"
+      },
+      {
+        "letter": "b",
+        "text": "ligonis guldomas ant nugaros ir kieto pagrindo, atlošiama galva, burnos revizija, oro įpūtimas, krūtinės ląstos paspaudimas;"
+      },
+      {
+        "letter": "c",
+        "text": "krūtinės ląstos paspaudimas, oro įpūtimas, burnos revizija, atlošiama galva, ligonis guldomas ant nugaros ir kieto pagrindo."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 85,
+    "text": "Asmuo savigynai turimą ginklą gali panaudoti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "žmonių susibūrimo vietose, jei nuo to gali nukentėti pašaliniai asmenys;"
+      },
+      {
+        "letter": "b",
+        "text": "prieš gyvūną, keliantį pavojų gyvybei ar sveikatai;"
+      },
+      {
+        "letter": "c",
+        "text": "norėdamas pasikviesti pagalbą ar perspėti;"
+      },
+      {
+        "letter": "d",
+        "text": "prieš moteris, jei akivaizdu, kad jos nėščios;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi a ir d atsakymai;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi b ir c atsakymai."
+      }
+    ],
+    "answer": "f"
+  },
+  {
+    "number": 86,
+    "text": "Civilinėje apyvartoje nedraudžiami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "naktiniai taikikliai;"
+      },
+      {
+        "letter": "b",
+        "text": "duslintuvai;"
+      },
+      {
+        "letter": "c",
+        "text": "ginklai, neturintys identifikacinių numerių;"
+      },
+      {
+        "letter": "d",
+        "text": "kastetai, metamosios žvaigždės;"
+      },
+      {
+        "letter": "e",
+        "text": "visi atsakymai teisingi;"
+      },
+      {
+        "letter": "f",
+        "text": "visi atsakymai neteisingi."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 87,
+    "text": "Ginklo savininkas turi teisę įsigyti ir turėti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "po 500vnt kiekvieno tipo (kalibro) šovinių prie kiekvieno vieneto ginklo;"
+      },
+      {
+        "letter": "b",
+        "text": "šovinių kiekis priklauso nuo ginklo paskirties;"
+      },
+      {
+        "letter": "c",
+        "text": "ne daugiau kaip 500vnt kiekvieno tipo (kalibro) šovinių"
+      },
+      {
+        "letter": "d",
+        "text": "šovinių kiekis neribojamas."
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "number": 88,
+    "text": "Galvos smegenų pažeidimo požymiai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "galvos skausmas, karščiavimas, dusulys, kosulys, širdies ritmo sutrikimas;"
+      },
+      {
+        "letter": "b",
+        "text": "pykinimas, vėmimas, širdies ritmo sutrikimas, karščiavimas, vidurių pūtimas, atsikosėjimas krauju;"
+      },
+      {
+        "letter": "c",
+        "text": "galvos skausmas, svaigimas, pykinimas, koordinacijos, regos sutrikimas, rankų ar kojų tirpimas, veido persikreipimas, sąmonės praradimas."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 89,
+    "text": "Kur galima treniruotis šaudyti iš turimo savigynos tikslams ginklo:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "karjeruose, tiruose, aptvertoje teritorijoje;"
+      },
+      {
+        "letter": "b",
+        "text": "šaudykloje, miške, laikantis saugumo reikalavimų;"
+      },
+      {
+        "letter": "c",
+        "text": "šaudymo stenduose, tiruose, šaudykloje."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 90,
+    "text": "Kraujavimo tipai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kapiliarinis, veninis, arterinis;"
+      },
+      {
+        "letter": "b",
+        "text": "išorinis, vidinis, mišrus;"
+      },
+      {
+        "letter": "c",
+        "text": "teisingi a ir b atsakymai."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 91,
+    "text": "Gyvybės požymiai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nėra širdies veiklos požymių, nesutrikęs kvėpavimas, nukentėjusysis sąmoningas, neprarastas audinių elastingumas, išliko reakcija į skausmą;"
+      },
+      {
+        "letter": "b",
+        "text": "yra širdies veiklos požymiai, sutrikęs kvėpavimas, nukentėjusysis sąmoningas, neprarastas audinių elastingumas, išliko reakcija į skausmą;"
+      },
+      {
+        "letter": "c",
+        "text": "yra širdies veiklos požymiai, nesutrikęs kvėpavimas, nukentėjusysis sąmoningas, neprarastas audinių elastingumas, išliko reakcija į skausmą."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 92,
+    "text": "Kaulų, lūžgalių imobilizavimo principai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "imobilizuojamas vienas sąnarys aukščiau sužalojimo;"
+      },
+      {
+        "letter": "b",
+        "text": "imobilizuojamas vienas sąnarys žemiau sužalojimo;"
+      },
+      {
+        "letter": "c",
+        "text": "imobilizuojami du artimiausi sąnariai."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 93,
+    "text": "Transportavimo principai įvairių sužeidimų atvejais:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ligonis transportuojamas priklausomai nuo bendro stovio;"
+      },
+      {
+        "letter": "b",
+        "text": "ligonis transportuojamas tik gulomis;"
+      },
+      {
+        "letter": "c",
+        "text": "ligonis transportuojamas tik suteikus pirmąją medicinos pagalbą ir priklausomai nuo bendro stovio."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 94,
+    "text": "Trauminio šoko požymiai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "silpnumas, skausmas, regos ir koordinacijos sutrikimas, širdies veiklos ir kvėpavimo sustojimas, sąmonės praradimas;"
+      },
+      {
+        "letter": "b",
+        "text": "bendra būklė gera, nesutrikusi rega ir koordinacija, pulsas 75, kraujospūdis 120/80mm.Hg, sąmonė nesutrikusi, blyški veido odos spalva;"
+      },
+      {
+        "letter": "c",
+        "text": "šaltas lipnus prakaitas, silpnumas, skausmas, pulsas dažnėja, kraujospūdis krenta, regos ir koordinacijos sutrikimas."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 95,
+    "text": "Pirmosios pagalbos suteikimo eiliškumas, esant blauzdos, šlaunies, žasto, dilbio kombinuotam šautiniam sužalojimui:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "transportavimas, prieš šokinių priemonių taikymas, lūžgalių imobilizavimas, pirminis žaizdos sutvarstymas, kraujavimo stabdymas;"
+      },
+      {
+        "letter": "b",
+        "text": "pirminis žaizdos sutvarstymas, lūžgalių imobilizavimas, prieš šokinių priemonių taikymas, kraujavimo stabdymas transportavimas;"
+      },
+      {
+        "letter": "c",
+        "text": "kraujavimo stabdymas, pirminis žaizdos sutvarstymas, lūžgalių imobilizavimas, prieš šokinių priemonių taikymas, transportavimas."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 96,
+    "text": "Neterminuotas leidimas laikyti (nešiotis) ginklus panaikinamas, jei:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "asmuo nenurodė gyvenamosios vietos;"
+      },
+      {
+        "letter": "b",
+        "text": "nesantis nepriekaištingos reputacijos;"
+      },
+      {
+        "letter": "c",
+        "text": "teisingi a ir b variantai."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 97,
+    "text": "Medžioklėje gali būti medžiojama teisėtai turimais „A“, „B“ kategorijų trumpaisiais šaunamaisiais ginklais:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 98,
+    "text": "Elektros šoko įtaisas tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nešaunamasis ginklas, sukonstruotas ar pritaikytas tiesiogiai prisilietus paveikti taikinį elektros srove;"
+      },
+      {
+        "letter": "b",
+        "text": "nešaunamasis ginklas, sukonstruotas ar pritaikytas per atstumą paveikti taikinį elektros srove;"
+      },
+      {
+        "letter": "c",
+        "text": "šaunamasis ginklas, sukonstruotas ar pritaikytas tiesiogiai prisilietus ar per atstumą paveikti taikinį elektros srove;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi a ir b variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "number": 99,
+    "text": "Ne jaunesni kaip 18m. LR nuolatiniai gyventojai, turintys galiojantį medžiotojo bilietą gali įsigyti ir turėti medžioklei „B“ ir „C“ kategorijų ilguosius ginklus:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "graižtvinius;"
+      },
+      {
+        "letter": "b",
+        "text": "lygiavamzdžius;"
+      },
+      {
+        "letter": "c",
+        "text": "pneumatinius;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi a ir b atsakymo variantai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi visi atsakymo variantai."
+      }
+    ],
+    "answer": "e"
+  },
+  {
+    "number": 100,
+    "text": "Ar leidimo laikyti (nešiotis) ginklus panaikinamas, kai asmuo naudojasi ginklu pažeisdamas įstatymų, kitų teisės aktų reikalavimus ir tas pažeidimas?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kelia grėsmę žmonių gyvybei;"
+      },
+      {
+        "letter": "b",
+        "text": "kelia grėsmę žmonių sveikatai;"
+      },
+      {
+        "letter": "c",
+        "text": "kelia grėsmę visuomenės saugumui;"
+      },
+      {
+        "letter": "d",
+        "text": "kelia grėsmę viešajai tvarkai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi a ir b atsakymai;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi visi atsakymai."
+      }
+    ],
+    "answer": "f"
+  },
+  {
+    "number": 101,
+    "text": "Neterminuotas leidimas laikyti (nešiotis) ginklus panaikinamas, kai asmuo naudojasi ginklu pažeisdamas įstatymų, kitų teisės aktų reikalavimus ir tas pažeidimas:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kelia grėsmę žmonių gyvybei;"
+      },
+      {
+        "letter": "b",
+        "text": "kelia grėsmę žmonių sveikatai;"
+      },
+      {
+        "letter": "c",
+        "text": "kelia grėsmę visuomenės saugumui;"
+      },
+      {
+        "letter": "d",
+        "text": "kelia grėsmę viešajai tvarkai;"
+      },
+      {
+        "letter": "e",
+        "text": "teisingi a ir b atsakymai;"
+      },
+      {
+        "letter": "f",
+        "text": "teisingi visi atsakymai."
+      }
+    ],
+    "answer": "f"
+  },
+  {
+    "number": 102,
+    "text": "Ar asmuo, turintis ginklą savigynai ir padaręs ginklų apyvartos taisyklių pažeidimą gali būti įpareigotas teritorinės policijos įstaigos vadovo sprendimu baigti kursus ir perlaikyti egzaminą pagal šaunamojo ginklo turėjimo savigynai mokymo programą?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 103,
+    "text": "Ar draudžiama ginklą palikti laikinoje laikymo vietoje, ginklo savininkui persikėlus į nuolatinę gyvenamąją vietą?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 104,
+    "text": "Ginklo savininkas, kurio leidimo laikyti (nešiotis) ginklus galiojimas pasibaigė turi atiduoti laikinai saugoti ginklą į teritorinę policijos įstaigą:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "per 5 kalendorines dienas;"
+      },
+      {
+        "letter": "b",
+        "text": "per 10 kalendorinių dienų;"
+      },
+      {
+        "letter": "c",
+        "text": "nedelsdamas."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 105,
+    "text": "Civilinėje apyvartoje draudžiami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "lazeriniai taikikliai, išskyrus sportui, medžioklei ir šaulio tarnybai naudojamus lazerinius taikiklius;"
+      },
+      {
+        "letter": "b",
+        "text": "dujiniai ginklai su nuodingosiomis medžiagomis;"
+      },
+      {
+        "letter": "c",
+        "text": "elektros šoko įtaisai su iššaunamosiomis adatomis;"
+      },
+      {
+        "letter": "d",
+        "text": "visi atsakymai teisingi;"
+      },
+      {
+        "letter": "e",
+        "text": "visi atsakymai neteisingi."
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "number": 106,
+    "text": "Fiziniam asmeniui, turinčiam senovinius ginklus, leidžiama juos užtaisyti ir šaudyti iš jų:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 107,
+    "text": "Ar turi teisę „B“, „C“ kategorijų ginklų savininkas, naudotojas ginklą duoti asmeniui, neturinčiam teisės laikyti ar nešiotis tos kategorijos ginklus, per šaudymo pratybas ar mokymus?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 108,
+    "text": "Kas yra ginklas?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įrenginys ar daiktas, sukonstruotas ar pritaikytas taikiniams naikinti, žaloti ar kitaip juos paveikti;"
+      },
+      {
+        "letter": "b",
+        "text": "ginklas, iš kurio sprogstamųjų medžiagų degimo produktų slėgio jėga per vamzdį gali būti paleista kulka taikiniui per atstumą paveikti."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 109,
+    "text": "Kas yra ginklo naudotojas?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "fizinis asmuo, kuris turi teisę nešiotis ar laikyti tam tikros kategorijos ginklą ir kuriam ginklo savininkas suteikia teisę naudotis jo ginklu;"
+      },
+      {
+        "letter": "b",
+        "text": "fizinis asmuo, kuris turi teisę nešiotis tam tikros kategorijos ginklą ir kuriam ginklo savininkas suteikia teisę naudotis jo ginklu;"
+      },
+      {
+        "letter": "c",
+        "text": "fizinis asmuo, kuris turi teisę laikyti tam tikros kategorijos ginklą ir kuriam ginklo savininkas suteikia teisę naudotis jo ginklu."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 110,
+    "text": "Kas yra ekspansyvioji kulka?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "kulka su susilpnintu smaigaliu, kuri skverbdamasi į kliūtį staiga deformuojasi arba suyra į specialiai suformuotas skeveldras;"
+      },
+      {
+        "letter": "b",
+        "text": "kulka su susilpnintu smaigaliu, kuri skverbdamasi į kliūtį praeina kiaurai ir nedeformuojasi."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 111,
+    "text": "Ginklo turėjimas, tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ginklo laikymas, nešiojimas, saugojimas, naudojimas;"
+      },
+      {
+        "letter": "b",
+        "text": "ginklo faktinis turėjimas savo žinioje, vietoje, turinčioje aiškiai apibrėžtas ribas;"
+      },
+      {
+        "letter": "c",
+        "text": "ginklo turėjimas su savimi tokiomis sąlygomis, kuriomis ginklą galima panaudoti nedelsiant."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 112,
+    "text": "„D“ kategorijos ginklo savininkui draudžiama ginklą ar šaudmenis perduoti naudoti be priežiūros asmenims, neturintiems:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "18 metų;"
+      },
+      {
+        "letter": "b",
+        "text": "21 metų;"
+      },
+      {
+        "letter": "c",
+        "text": "23 metų."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 113,
+    "text": "Elektros šoko įtaisus jų savininkui leidžiama:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "nešioti;"
+      },
+      {
+        "letter": "b",
+        "text": "gabenti;"
+      },
+      {
+        "letter": "c",
+        "text": "iš civilinės apyvartos elektros šoko įtaisai išimti."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 114,
+    "text": "Kas yra šaunamasis ginklas?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ginklas, iš kurio sprogstamųjų medžiagų degimo produktų slėgio jėga per vamzdį paleidžiamos kulkos, sviediniai arba kenksmingosios, dirginančiosios ar kitos dujinės veikliosios medžiagos mechaniškai, termiškai, chemiškai ar kitaip taikiniui per atstumą paveikti arba duodamas garso ar šviesos signalas;"
+      },
+      {
+        "letter": "b",
+        "text": "įrenginys ar daiktas, sukonstruotas ar pritaikytas taikiniams naikinti, žaloti ar kitaip juos paveikti."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 115,
+    "text": "Ką reiškia sąvoka „ginklo turėjimas“?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ginklo, šaudmenų laikymas, naudojimas;"
+      },
+      {
+        "letter": "b",
+        "text": "ginklo, šaudmenų nešiojimas, saugojimas, naudojimas;"
+      },
+      {
+        "letter": "c",
+        "text": "ginklo, šaudmenų laikymas, nešiojimas, saugojimas, naudojimas."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 116,
+    "text": "Ką reiškia sąvoka „ginklo ir šaudmenų laikymas“?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ginklo, šaudmenų valdymas (faktinis turėjimas savo žinioje);"
+      },
+      {
+        "letter": "b",
+        "text": "ginklo, šaudmenų valdymas (faktinis turėjimas savo žinioje) fizinio asmens būste, turinčiose aiškiai apibrėžtas ribas."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 117,
+    "text": "Ar galima medžioti su savigynai įsigytais trumpaisiais šaunamaisiais ginklais?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "taip;"
+      },
+      {
+        "letter": "b",
+        "text": "ne."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 118,
+    "text": "Ką reiškia sąvoka „visiškai netinkamas naudoti ginklas“?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "šaunamasis ginklas;"
+      },
+      {
+        "letter": "b",
+        "text": "nešaunamasis ginklas."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 119,
+    "text": "Civilinė ginklų, ginklų priedėlių, šaudmenų apyvarta tai:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ginklų, ginklų priedėlių, šaudmenų apyvarta, kurią vykdo specialaus statuso subjektai;"
+      },
+      {
+        "letter": "b",
+        "text": "ginklų, ginklų priedėlių, šaudmenų apyvarta, kurią vykdo fiziniai ir juridiniai asmenys, išskyrus specialaus statuso subjektus;"
+      },
+      {
+        "letter": "c",
+        "text": "ginklų, ginklų priedėlių, šaudmenų apyvarta, kurią vykdo fiziniai, juridiniai asmenys ir specialaus statuso subjektai."
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 120,
+    "text": "Kokia kils atsakomybė už leidimo laikyti (nešiotis) ginklus neperregistravimą?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "baudžiamoji;"
+      },
+      {
+        "letter": "b",
+        "text": "administracinė;"
+      },
+      {
+        "letter": "c",
+        "text": "disciplinarinė"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "number": 121,
+    "text": "Šaunant 45 laipsnių kampu į kietą paviršių kulka rikošetuos",
+    "options": [
+      {
+        "letter": "a",
+        "text": "45 laipsnių kampu;"
+      },
+      {
+        "letter": "b",
+        "text": "90 laipsnių kampu;"
+      },
+      {
+        "letter": "c",
+        "text": "rikošeto prognozuoti neįmanoma;"
+      },
+      {
+        "letter": "d",
+        "text": "90 laipsnių kampu, jei kulka yra kieto metalo apvalkalu."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 122,
+    "text": "Nedidelės šaunamosios galios ginklas yra šaunamasis ginklas, kurio sviedinio kinetinė energija yra nedidesnė kaip:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "7,5 J;"
+      },
+      {
+        "letter": "b",
+        "text": "18 J;"
+      },
+      {
+        "letter": "c",
+        "text": "2,5 J;"
+      },
+      {
+        "letter": "d",
+        "text": "10 J."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 123,
+    "text": "Sąvokos „būtinoji gintis“, „būtinasis“ reikalingumas“, ir „asmens padariusio nusikalstamą veiką sulaikymas“ apibūdina:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "atvejus, kai apsaugos darbuotojas gali panaudoti bet kokią prievartą;"
+      },
+      {
+        "letter": "b",
+        "text": "atvejus, kada tarnybinį šaunamąjį ginklą naudoti draudžiama;"
+      },
+      {
+        "letter": "c",
+        "text": "kai kurias baudžiamąją atsakomybe šalinančias aplinkybes;"
+      },
+      {
+        "letter": "d",
+        "text": "baudžiamąją atsakomybę šalinančias aplinkybes už šaunamojo ginklo panaudojimą."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 124,
+    "text": "Kokia atsakomybė numatyta už šaunamojo ginklo, šaudmenų laikymo taisyklių pažeidimą, sudariusį sąlygas kitam asmeniui juos neteisėtai panaudoti?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "civilinė;"
+      },
+      {
+        "letter": "b",
+        "text": "administracinė;"
+      },
+      {
+        "letter": "c",
+        "text": "baudžiamoji;."
+      },
+      {
+        "letter": "d",
+        "text": "drausminė"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 125,
+    "text": "Su savigynai įsigytais trumpaisiais šaunamaisiais ginklais medžioti:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "leidžiama ūkininkams, turintiems nuosavus žemės plotus;"
+      },
+      {
+        "letter": "b",
+        "text": "leidžiama;"
+      },
+      {
+        "letter": "c",
+        "text": "neleidžiama."
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "number": 126,
+    "text": "Už ką administracinių nusižengimų kodekse nenumatyta atsakomybė?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "už neteisėtai įgytą nešaunamąjį ginklą;"
+      },
+      {
+        "letter": "b",
+        "text": "už ginklo, šaudmenų, kuriems įsigyti, laikyti ar nešioti nereikalingas leidimas, saugojimo, laikymo ar gabenimo taisyklių pažeidimus;"
+      },
+      {
+        "letter": "c",
+        "text": "už neteisėtą šaudymą iš ginklo;"
+      },
+      {
+        "letter": "d",
+        "text": "b ir c atsakymai."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 127,
+    "text": "„B“ kategorijai priskiriami:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "ilgieji graižtviniai ir lygiavamzdžiai šaunamieji ginklai;"
+      },
+      {
+        "letter": "b",
+        "text": "signaliniai šautuvai, dujiniai pistoletai (revolveriai);"
+      },
+      {
+        "letter": "c",
+        "text": "pusiau automatiniai arba pertaisomi trumpieji šaunamieji ginklai;"
+      },
+      {
+        "letter": "d",
+        "text": "teisingi a ir c."
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "number": 128,
+    "text": "Visas komandas tire ar šaudykloje duoda tik",
+    "options": [
+      {
+        "letter": "a",
+        "text": "šaudymo vadovas;"
+      },
+      {
+        "letter": "b",
+        "text": "tiro ar šaudyklos administracijos vadovas;"
+      },
+      {
+        "letter": "c",
+        "text": "mokymo vadovas;"
+      },
+      {
+        "letter": "d",
+        "text": "labiausia patyręs šaulys."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 129,
+    "text": "Asmenys, teisėtai turintys „B“ kategorijos lygiavamzdžius ir graižtvinius ginklus, „C“ kategorijos senovinių ginklų kopijas, turi teisę:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "įsigyti ir laikyti kapsulių ir iki 3 kg parako;"
+      },
+      {
+        "letter": "b",
+        "text": "įsigyti ir laikyti kapsulių ir iki 5 kg parako;"
+      },
+      {
+        "letter": "c",
+        "text": "kapsulių ir parako skaičius neribojamas;"
+      },
+      {
+        "letter": "d",
+        "text": "draudžiama įsigyti ir laikyti kapsules ir paraką."
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "number": 130,
+    "text": "C kategorijai priskiriama:",
+    "options": [
+      {
+        "letter": "a",
+        "text": "šaltieji ginklai, nepriskirti draudžiamiems ginklams;"
+      },
+      {
+        "letter": "b",
+        "text": "elektros šoko įtaisai;"
+      },
+      {
+        "letter": "c",
+        "text": "pneumatiniai ginklai, kurių sviedinio kinetinė energija viršija 7,5 J;"
+      },
+      {
+        "letter": "d",
+        "text": "senoviniai ginklai."
+      }
+    ],
+    "answer": "c"
+  }
+]

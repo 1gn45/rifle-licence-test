@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="lt">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Savigynos testas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header>
+        <h1>Savigynos testas</h1>
+        <p class="subtitle">
+          Pasirinkite atsakymą, paspauskite „Patikrinti“ ir iškart pamatykite rezultatą.
+        </p>
+      </header>
+
+      <section class="status" aria-live="polite">
+        <span id="progress">Klausimas 0 iš 0</span>
+        <span id="score">Teisingi: 0</span>
+      </section>
+
+      <section class="card" aria-live="polite">
+        <h2 id="question-number">Klausimas</h2>
+        <p id="question-text"></p>
+        <form id="options-form" class="options"></form>
+        <div id="feedback" class="feedback" role="status"></div>
+        <div class="actions">
+          <button id="submit-btn" type="button">Patikrinti</button>
+          <button id="next-btn" type="button" disabled>Kitas klausimas</button>
+          <button id="restart-btn" type="button" class="secondary">Pradėti iš naujo</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
