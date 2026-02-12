@@ -167,7 +167,8 @@ fetch('questions.json')
     resetState();
     renderQuestion();
   })
-  .catch(() => {
+  .catch((error) => {
+    console.error(error);
     feedbackEl.className = 'feedback error';
     feedbackEl.textContent = 'Nepavyko įkelti klausimų sąrašo. Patikrinkite questions.json.';
   });
