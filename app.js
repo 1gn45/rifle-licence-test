@@ -155,7 +155,7 @@ submitBtn.addEventListener('click', handleSubmit);
 nextBtn.addEventListener('click', handleNext);
 restartBtn.addEventListener('click', handleRestart);
 
-fetch('questions.json', { cache: 'no-store' })
+fetch('questions.json')
   .then((response) => {
     if (!response.ok) {
       throw new Error('Nepavyko įkelti klausimų.');
