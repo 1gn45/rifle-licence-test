@@ -372,7 +372,7 @@
       },
       {
         "letter": "b",
-        "text": "ne. ko“)"
+        "text": "ne."
       }
     ],
     "answer": "a"
@@ -459,7 +459,11 @@
       },
       {
         "letter": "b",
-        "text": "prašymą, kitoje pusėje prašymo turi nurodyti kartu su pareiškėju gyvenančius asmenis, vyresnius kaip 14 metų, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą; Cc) prašymą, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą."
+        "text": "prašymą, kitoje pusėje prašymo turi nurodyti kartu su pareiškėju gyvenančius asmenis, vyresnius kaip 14 metų, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą;"
+      },
+      {
+        "letter": "c",
+        "text": "prašymą, pažymas dėl alkoholizmo, narkomanijos ir dėl psichikos ligos ar sutrikimo, asmens tapatybę patvirtinantį dokumentą."
       }
     ],
     "answer": "a"
@@ -1326,7 +1330,7 @@
       },
       {
         "letter": "f",
-        "text": "teisingi b ir c atsakymo variantai. Beno"
+        "text": "teisingi b ir c atsakymo variantai."
       }
     ],
     "answer": "e"
@@ -2277,7 +2281,7 @@
       },
       {
         "letter": "c",
-        "text": "fizinis asmuo, kuris turi teisę laikyti tam tikros kategorijos ginklą ir kuriam ginklo savininkas suteikia teisę naudotis jo ginklu. Bingo"
+        "text": "fizinis asmuo, kuris turi teisę laikyti tam tikros kategorijos ginklą ir kuriam ginklo savininkas suteikia teisę naudotis jo ginklu."
       }
     ],
     "answer": "a"
@@ -2600,7 +2604,7 @@
       },
       {
         "letter": "d",
-        "text": "bir c atsakymai."
+        "text": "b ir c atsakymai."
       }
     ],
     "answer": "a"

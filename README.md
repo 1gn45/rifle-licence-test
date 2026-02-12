@@ -7,7 +7,7 @@
 - Atidarykite `index.html` per GitHub Pages arba paleiskite paprastą serverį lokaliai:
 
 ```bash
-cd /home/runner/work/rifle-licence-test/rifle-licence-test
+cd rifle-licence-test
 python -m http.server 8000
 ```
 
