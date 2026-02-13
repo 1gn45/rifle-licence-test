@@ -41,6 +41,13 @@ h1 {
   color: var(--muted);
 }
 
+.source {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+  font-style: italic;
+}
+
 .status {
   display: flex;
   justify-content: space-between;
@@ -152,4 +159,26 @@ button:disabled {
 .summary {
   font-size: 18px;
   font-weight: 600;
+}
+
+.selection-buttons {
+  display: grid;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.selection-btn {
+  width: 100%;
+  padding: 16px;
+  font-size: 18px;
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.selection-btn:hover {
+  background: var(--primary-dark);
 }

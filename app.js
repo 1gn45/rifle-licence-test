@@ -7,11 +7,17 @@ const feedbackEl = document.getElementById('feedback');
 const submitBtn = document.getElementById('submit-btn');
 const nextBtn = document.getElementById('next-btn');
 const restartBtn = document.getElementById('restart-btn');
+const selectionScreen = document.getElementById('selection-screen');
+const statusSection = document.querySelector('.status');
+const cardSection = document.getElementById('question-card');
 
+let allQuestions = [];
 let questions = [];
 let currentIndex = 0;
 let correctCount = 0;
 let submitted = false;
+let wrongAnswers = [];
+let selectedQuestionCount = 0;
 
 const shuffle = (items) => {
   const array = [...items];
@@ -26,6 +32,7 @@ const resetState = () => {
   currentIndex = 0;
   correctCount = 0;
   submitted = false;
+  wrongAnswers = [];
   scoreEl.textContent = `Teisingi: ${correctCount}`;
 };
 
@@ -69,9 +76,27 @@ const showSummary = () => {
   questionTextEl.textContent = '';
   optionsForm.innerHTML = '';
   feedbackEl.className = 'feedback success summary';
-  feedbackEl.textContent = `Jūsų rezultatas: ${correctCount} iš ${questions.length}.`;
+  feedbackEl.innerHTML = `<p>Jūsų rezultatas: ${correctCount} iš ${questions.length}.</p>`;
+  
+  if (wrongAnswers.length > 0) {
+    const wrongCount = document.createElement('p');
+    wrongCount.textContent = `Neteisingai atsakytų klausimų: ${wrongAnswers.length}`;
+    feedbackEl.appendChild(wrongCount);
+  }
+  
   submitBtn.disabled = true;
   nextBtn.disabled = true;
+  
+  // Add button to repeat test with wrong answers only
+  if (wrongAnswers.length > 0) {
+    const repeatWrongBtn = document.createElement('button');
+    repeatWrongBtn.id = 'repeat-wrong-btn';
+    repeatWrongBtn.textContent = 'Kartoti su klaidingais atsakymais';
+    repeatWrongBtn.className = 'secondary';
+    repeatWrongBtn.style.marginTop = '16px';
+    repeatWrongBtn.addEventListener('click', handleRepeatWrong);
+    feedbackEl.appendChild(repeatWrongBtn);
+  }
 };
 
 const setFeedback = ({ correct, correctOption, selectedOption }) => {
@@ -124,6 +149,9 @@ const handleSubmit = () => {
   if (selectedLetter === correctLetter) {
     correctCount += 1;
     scoreEl.textContent = `Teisingi: ${correctCount}`;
+  } else {
+    // Track wrong answers
+    wrongAnswers.push(question);
   }
 
   setFeedback({
@@ -146,7 +174,24 @@ const handleNext = () => {
 };
 
 const handleRestart = () => {
-  questions = shuffle(questions);
+  questions = shuffle(allQuestions).slice(0, selectedQuestionCount);
+  resetState();
+  renderQuestion();
+};
+
+const handleRepeatWrong = () => {
+  questions = shuffle([...wrongAnswers]);
+  resetState();
+  renderQuestion();
+};
+
+const startTest = (questionCount) => {
+  selectionScreen.style.display = 'none';
+  statusSection.style.display = 'flex';
+  cardSection.style.display = 'block';
+  
+  selectedQuestionCount = questionCount;
+  questions = shuffle(allQuestions).slice(0, questionCount);
   resetState();
   renderQuestion();
 };
@@ -163,12 +208,19 @@ fetch('questions.json')
     return response.json();
   })
   .then((data) => {
-    questions = shuffle(data);
-    resetState();
-    renderQuestion();
+    allQuestions = data;
+    // Add event listeners for selection buttons after questions are loaded
+    document.querySelectorAll('.selection-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const count = parseInt(btn.dataset.count, 10);
+        startTest(count);
+      });
+    });
   })
   .catch((error) => {
     console.error(error);
-    feedbackEl.className = 'feedback error';
-    feedbackEl.textContent = 'Nepavyko įkelti klausimų sąrašo. Patikrinkite questions.json.';
+    const errorMsg = document.createElement('p');
+    errorMsg.className = 'feedback error';
+    errorMsg.textContent = 'Nepavyko įkelti klausimų sąrašo. Patikrinkite questions.json.';
+    selectionScreen.appendChild(errorMsg);
   });
