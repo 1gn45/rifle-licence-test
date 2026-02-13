@@ -17,6 +17,7 @@ let currentIndex = 0;
 let correctCount = 0;
 let submitted = false;
 let wrongAnswers = [];
+let selectedQuestionCount = 0;
 
 const shuffle = (items) => {
   const array = [...items];
@@ -173,7 +174,7 @@ const handleNext = () => {
 };
 
 const handleRestart = () => {
-  questions = shuffle(questions);
+  questions = shuffle(allQuestions).slice(0, selectedQuestionCount);
   resetState();
   renderQuestion();
 };
@@ -189,7 +190,8 @@ const startTest = (questionCount) => {
   statusSection.style.display = 'flex';
   cardSection.style.display = 'block';
   
-  questions = shuffle(allQuestions.slice(0, questionCount));
+  selectedQuestionCount = questionCount;
+  questions = shuffle(allQuestions).slice(0, questionCount);
   resetState();
   renderQuestion();
 };
