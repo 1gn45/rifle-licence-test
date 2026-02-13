@@ -3,24 +3,37 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Savigynos testas</title>
+    <title>Ginklo savigynai testas</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main class="container">
       <header>
-        <h1>Savigynos testas</h1>
+        <h1>Ginklo savigynai testas</h1>
         <p class="subtitle">
           Pasirinkite atsakymą, paspauskite „Patikrinti“ ir iškart pamatykite rezultatą.
         </p>
+        <p class="source">Klausimyno šaltinis "Ekskomisarų Biuras"</p>
       </header>
 
-      <section class="status" aria-live="polite">
+      <section id="selection-screen" class="card">
+        <h2>Pasirinkite testo ilgį</h2>
+        <p>Kiek klausimų norite atsakyti?</p>
+        <div class="selection-buttons">
+          <button class="selection-btn" data-count="10">10 klausimų</button>
+          <button class="selection-btn" data-count="30">30 klausimų</button>
+          <button class="selection-btn" data-count="50">50 klausimų</button>
+          <button class="selection-btn" data-count="80">80 klausimų</button>
+          <button class="selection-btn" data-count="130">130 klausimų (visi)</button>
+        </div>
+      </section>
+
+      <section class="status" aria-live="polite" style="display: none;">
         <span id="progress">Klausimas 0 iš 0</span>
         <span id="score">Teisingi: 0</span>
       </section>
 
-      <section class="card" aria-live="polite">
+      <section id="question-card" class="card" aria-live="polite" style="display: none;">
         <h2 id="question-number">Klausimas</h2>
         <p id="question-text"></p>
         <form id="options-form" class="options"></form>
