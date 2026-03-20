@@ -18,6 +18,8 @@ let correctCount = 0;
 let submitted = false;
 let wrongAnswers = [];
 let selectedQuestionCount = 0;
+let currentOptions = [];
+let currentAnswer = '';
 
 const shuffle = (items) => {
   const array = [...items];
@@ -48,8 +50,12 @@ const renderQuestion = () => {
   questionNumberEl.textContent = `Klausimas ${question.number}`;
   questionTextEl.textContent = question.text;
 
+  const letterList = question.options.map((o) => o.letter);
+  currentOptions = shuffle(question.options.map((o) => ({ ...o, isCorrect: o.letter === question.answer }))).map((option, i) => ({ ...option, letter: letterList[i] }));
+  currentAnswer = (currentOptions.find((o) => o.isCorrect) || currentOptions[0]).letter;
+
   optionsForm.innerHTML = '';
-  question.options.forEach((option) => {
+  currentOptions.forEach((option) => {
     const optionId = `option-${question.number}-${option.letter}`;
     const wrapper = document.createElement('label');
     wrapper.className = 'option';
@@ -132,9 +138,9 @@ const handleSubmit = () => {
   submitted = true;
   const question = questions[currentIndex];
   const selectedLetter = selectedInput.value;
-  const correctLetter = question.answer;
-  const selectedOption = question.options.find((option) => option.letter === selectedLetter);
-  const correctOption = question.options.find((option) => option.letter === correctLetter);
+  const correctLetter = currentAnswer;
+  const selectedOption = currentOptions.find((option) => option.letter === selectedLetter);
+  const correctOption = currentOptions.find((option) => option.letter === correctLetter);
 
   optionsForm.querySelectorAll('.option').forEach((optionEl) => {
     const letter = optionEl.dataset.letter;
